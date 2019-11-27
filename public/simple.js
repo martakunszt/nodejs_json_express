@@ -2,7 +2,7 @@
 
 //let XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 
-
+//alert("Hey")
 /*a standard GET request*/
 function Get(url){
     let Httppreq = new XMLHttpRequest();
